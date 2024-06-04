@@ -1,3 +1,3 @@
 Git is a software that helps in Version Controlling System. It is basically a Distributive vcs. It helps for local vcs.
 Git is a free and open-source version control system that allows developers to track changes made to their code.
-Apache SVN is a centralised VCS. It helps for both local and remote. Pushes changes directly to remote repo.
+Apache SVN is a centralized VCS. It helps for both local and remote. Pushes changes directly to remote repo.
